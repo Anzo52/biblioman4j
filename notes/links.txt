@@ -1,0 +1,6 @@
+https://www.geeksforgeeks.org/library-management-system-using-switch-statement-in-java/
+https://www.geeksforgeeks.org/class-diagram-for-library-management-system/
+https://www.geeksforgeeks.org/use-case-diagram-for-library-management-system/
+https://www.geeksforgeeks.org/dfd-for-library-management-system/
+https://stackoverflow.com/questions/66427910/object-oriented-design-library-management-system
+https://origin.geeksforgeeks.org/er-diagram-of-library-management-system/
