@@ -1,0 +1,3 @@
+[submodule "bookinfo4j"]
+    path = biblioman4j/bookinfo4j 
+    url = git://github.com/Anzo52/bookinfo4j
